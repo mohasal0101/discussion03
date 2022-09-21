@@ -18,8 +18,8 @@ In your reading notes page for this class, provide answers to the following prom
 -   What is **Stacks** and how to use it?<br>
 *A Stack can be used for  **evaluating expressions consisting of operands and operators**. Stacks can be used for Backtracking, i.e., to check parenthesis matching in an expression. It can also be used to convert one form of expression to another form. It can be used for systematic Memory Management.*
 <br>
--   What is **Queue**? <br>
-*Queue is **an abstract data structure, somewhat similar to Stacks**. Unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue). Queue follows First-In-First-Out methodology, i.e., the data item stored first will be accessed first.*
+-   What is Queue ? <br>
+- Queue is an abstract data structure, somewhat similar to Stacks. Unlike stacks, a queue is open at both its ends. One end is always used to insert data (enqueue) and the other is used to remove data (dequeue). Queue follows First-In-First-Out methodology, i.e., the data item stored first will be accessed first.
 
 Skim the following materials in preparation for the upcoming lecture. Note the following as you browse the material, and be prepared to participate in discussions during lecture
 
